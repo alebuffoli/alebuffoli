@@ -177,10 +177,10 @@ JSON        ▒░░░░░░░░░░░   01.19 %
 <p align=center>
   <div align=center>
     <a href="https://github.com/alebuffoli/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=400 src="http://github-readme-streak-stats.herokuapp.com?user=alebuffoli&theme=react&date_format=j%20M%5B%20Y%5D&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=alebuffoli&theme=react&date_format=j%20M%5B%20Y%5D&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/alebuffoli/github-readme-stats" title="Go to Source">
-      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=alebuffoli&count_private=true&show_icons=true&border=61dafb&hide_border=true&theme=react" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=alebuffoli&count_private=true&show_icons=true&border=61dafb&hide_border=true&theme=react" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br>
