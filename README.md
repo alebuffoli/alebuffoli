@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=alebuffoli&hide=contribs,prs&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alebuffoli&layout=compact&langs_count=6&theme=dark"/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alebuffoli&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
